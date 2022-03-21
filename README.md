@@ -25,6 +25,17 @@
 <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=plastic&logo=EclipseIDE&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white">
 <img src="https://img.shields.io/badge/diagrams.net-F08705?style=plastic&logo=diagrams.net&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/Trello-0052CC?style=plastic&logo=Trello&logoColor=white">
+</br>
+</br>
+</br>
+</br>
+
+ ## 🙋‍♀️
+ [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-20C997?style=flat&logoColor=white)]("https://soheny-provides.tistory.com/")
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=honiie)](https://solved.ac/honiie)
 </br>
 </br>
 </br>
@@ -33,8 +44,10 @@
  ## 📈Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohenyp&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </br>
  ![SohenyP's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohenyp&show_icons=true&count_private=true&theme=dracula)
- </br>
- 
+</br>
+</br>
+</br>
+</br>
 </div>
 
  
