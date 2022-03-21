@@ -1,8 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Soheny.P&fontSize=80&descSize=600&animation=fadeIn&fontAlign=70" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=000000&height=300&section=header&text=Soheny.P&fontSize=80&fontColor=fef787&descSize=600&animation=fadeIn&fontAlign=70" />
 
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSohenyP&count_bg=%23826BDB&title_bg=%234B0CA0&icon=&icon_color=%23E7E7E7&title=Hi+There%21&edge_flat=false"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Hi+There%21&edge_flat=false)](https://hits.seeyoufarm.com)
 </br>
 </br>
 </br>
