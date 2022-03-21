@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:6eedb1,100:fef787&height=300&section=header&text=Soheny.P&fontSize=80&fontColor=000000&descSize=600&animation=fadeIn&fontAlign=70" />
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSohenyP&count_bg=%23ACA759&title_bg=%23357C5A&icon=&icon_color=%23E7E7E7&title=Hi+There%21&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
 </br>
 </br>
 </br>
@@ -27,25 +28,30 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white">
 <img src="https://img.shields.io/badge/diagrams.net-F08705?style=plastic&logo=diagrams.net&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
- 
 
 </br>
 </br>
-</br>
-</br>
+
 
 #    
+
+</br>
+
 ### 🙋‍♀️Record
  [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-20C997?style=flat&logoColor=white)]("https://soheny-provides.tistory.com/")
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=honiie)](https://solved.ac/honiie)
-</br>
+
 </br>
 
 #    
+
+</br>
+
 ### 📈Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohenyp&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </br>
  ![SohenyP's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohenyp&show_icons=true&count_private=true&theme=dracula)
+ 
 </br>
 </br>
 </br>
