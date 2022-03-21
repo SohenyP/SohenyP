@@ -6,7 +6,8 @@
 </br>
 </br>
 </br>
- ### 🛠️Tech Stack
+ 
+### 🛠️Tech Stack
  
 ##### Back       
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
@@ -25,7 +26,8 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white">
 <img src="https://img.shields.io/badge/diagrams.net-F08705?style=plastic&logo=diagrams.net&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/Trello-0052CC?style=plastic&logo=Trello&logoColor=white">
+ 
+
 </br>
 </br>
 </br>
