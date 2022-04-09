@@ -38,9 +38,8 @@
 </br>
 
 ### 🙋‍♀️Record
- [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-20C997?style=flat&logoColor=white)]("https://soheny-provides.tistory.com/")
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=honiie)](https://solved.ac/honiie)
+ [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-20C997?style=flat&logoColor=white&link="https://soheny-provides.tistory.com/")]
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=honiie)](https://solved.ac/honiie)
 
 </br>
 
